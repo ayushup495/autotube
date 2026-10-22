@@ -36,17 +36,26 @@ tags (list of 10),
 script (voiceover, 150-200 words, plain text, no emojis),
 keywords (list of 5 English stock-footage search terms),
 thumb_text (max 4 words, same language as the video)."""
+    models = ["gemini-3.5-flash", "gemini-3.1-flash-lite", "gemini-3-flash-preview",
+              "gemini-2.5-flash-lite", "gemini-2.5-flash"]
     def call():
-        r = requests.post(
-            f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={GEMINI}",
-            json={"contents": [{"parts": [{"text": prompt}]}],
-                  "generationConfig": {"responseMimeType": "application/json"}}, timeout=120)
-        r.raise_for_status()
-        d = json.loads(r.json()["candidates"][0]["content"]["parts"][0]["text"])
-        assert all(k in d for k in ["title", "description", "tags", "script", "keywords", "thumb_text"])
-        return d
+        last = None
+        for m in models:
+            try:
+                r = requests.post(
+                    f"https://generativelanguage.googleapis.com/v1beta/models/{m}:generateContent?key={GEMINI}",
+                    json={"contents": [{"parts": [{"text": prompt}]}],
+                          "generationConfig": {"responseMimeType": "application/json"}}, timeout=120)
+                r.raise_for_status()
+                d = json.loads(r.json()["candidates"][0]["content"]["parts"][0]["text"])
+                assert all(k in d for k in ["title", "description", "tags", "script", "keywords", "thumb_text"])
+                print("used model", m)
+                return d
+            except Exception as e:
+                print("model failed", m, e)
+                last = e
+        raise last
     return retry(call)
-
 
 def make_voice(text):
     asyncio.run(edge_tts.Communicate(text, VOICE).save("voice.mp3"))
