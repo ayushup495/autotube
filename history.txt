@@ -4,3 +4,5 @@ long|Cars & Automobiles|Why Modern Cars Are Smarter Than You Think
 short|Technology & Gadgets|How Your Car Key Fob Works Without a Battery
 long|Space & Rockets|How Rockets Turn in Space Without Air
 short|Engineering & Machines|Why Your Car Engine Needs Precise Explosions to Move
+long|Aviation & Aeroplanes|Why Do Airplanes Have Such Small Windows?
+short|Inventions & History|How a Melted Candy Bar Invented the Microwave
