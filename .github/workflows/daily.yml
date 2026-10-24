@@ -1,8 +1,13 @@
 name: daily-video
 on:
   schedule:
-    - cron: "0 1 * * *"
+    - cron: "13 0 * * *"
+    - cron: "43 1 * * *"
+    - cron: "23 3 * * *"
   workflow_dispatch:
+concurrency:
+  group: autotube
+  cancel-in-progress: false
 permissions:
   contents: write
 jobs:
@@ -26,8 +31,9 @@ jobs:
           VIDEO_LANG: ${{ vars.VIDEO_LANG }}
       - if: always()
         run: |
+          touch last_run.txt
           git config user.name "bot"
           git config user.email "bot@users.noreply.github.com"
-          git add history.txt
+          git add history.txt last_run.txt
           git commit -m "update history" || true
           git push
