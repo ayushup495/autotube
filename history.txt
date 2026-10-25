@@ -6,3 +6,5 @@ long|Space & Rockets|How Rockets Turn in Space Without Air
 short|Engineering & Machines|Why Your Car Engine Needs Precise Explosions to Move
 long|Aviation & Aeroplanes|Why Do Airplanes Have Such Small Windows?
 short|Inventions & History|How a Melted Candy Bar Invented the Microwave
+long|AI & Machine Learning|How Machines Actually Learn: A Simple Guide to Neural Networks
+short|Earth & Oceans|Why the Deep Ocean is Darker Than You Think
