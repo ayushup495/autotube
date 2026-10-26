@@ -8,3 +8,5 @@ long|Aviation & Aeroplanes|Why Do Airplanes Have Such Small Windows?
 short|Inventions & History|How a Melted Candy Bar Invented the Microwave
 long|AI & Machine Learning|How Machines Actually Learn: A Simple Guide to Neural Networks
 short|Earth & Oceans|Why the Deep Ocean is Darker Than You Think
+long|Science Explained|How Noise Canceling Headphones Delete Sound Waves
+short|Animals & Nature|Why Do Flamingos Stand On One Leg?
