@@ -10,3 +10,5 @@ long|AI & Machine Learning|How Machines Actually Learn: A Simple Guide to Neural
 short|Earth & Oceans|Why the Deep Ocean is Darker Than You Think
 long|Science Explained|How Noise Canceling Headphones Delete Sound Waves
 short|Animals & Nature|Why Do Flamingos Stand On One Leg?
+long|Technology & Gadgets|How Your Phone Tracks Your Location From Space
+short|Cars & Automobiles|Why Your Car Tires Are Actually Black
