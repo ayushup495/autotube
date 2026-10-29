@@ -14,3 +14,5 @@ long|Technology & Gadgets|How Your Phone Tracks Your Location From Space
 short|Cars & Automobiles|Why Your Car Tires Are Actually Black
 long|Engineering & Machines|How Your Car Turns Without Wrecking Its Tires
 short|Space & Rockets|The Secret Earth Trick That Gives Rockets Free Speed
+long|Inventions & History|Why Ships Float Even Though They Are Made Of Heavy Steel
+short|Aviation & Aeroplanes|Why Do Airplanes Dump Fuel Before Landing?
