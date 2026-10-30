@@ -16,3 +16,5 @@ long|Engineering & Machines|How Your Car Turns Without Wrecking Its Tires
 short|Space & Rockets|The Secret Earth Trick That Gives Rockets Free Speed
 long|Inventions & History|Why Ships Float Even Though They Are Made Of Heavy Steel
 short|Aviation & Aeroplanes|Why Do Airplanes Dump Fuel Before Landing?
+long|Earth & Oceans|समुद्र का पानी नमकीन क्यों है और यह नमक कहाँ से आया?
+short|AI & Machine Learning|AI को कैसे पता चलता है कि आपको क्या देखना पसंद है?
