@@ -20,3 +20,5 @@ long|Earth & Oceans|समुद्र का पानी नमकीन क�
 short|AI & Machine Learning|AI को कैसे पता चलता है कि आपको क्या देखना पसंद है?
 long|Animals & Nature|व्हेल मछलियाँ समुद्र में सैकड़ों किलोमीटर दूर कैसे बात करती हैं?
 short|Science Explained|फ्रिज बिना बर्फ के ठंडा कैसे करता है?
+long|Cars & Automobiles|कार में एबीएस ब्रेक कैसे काम करते हैं और दुर्घटना रोकते हैं?
+short|Technology & Gadgets|समुद्र के नीचे से इंटरनेट आपके फोन तक कैसे पहुँचता है?
