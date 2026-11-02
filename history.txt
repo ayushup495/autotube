@@ -22,3 +22,5 @@ long|Animals & Nature|व्हेल मछलियाँ समुद्र �
 short|Science Explained|फ्रिज बिना बर्फ के ठंडा कैसे करता है?
 long|Cars & Automobiles|कार में एबीएस ब्रेक कैसे काम करते हैं और दुर्घटना रोकते हैं?
 short|Technology & Gadgets|समुद्र के नीचे से इंटरनेट आपके फोन तक कैसे पहुँचता है?
+long|Space & Rockets|अंतरिक्ष में स्पेससूट इंसानों को ज़िंदा कैसे रखता है?
+short|Engineering & Machines|लिफ्ट की रस्सी टूट जाए तो क्या होगा? लिफ्ट गिरती क्यों नहीं?
