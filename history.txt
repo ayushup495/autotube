@@ -26,3 +26,5 @@ long|Space & Rockets|अंतरिक्ष में स्पेससूट
 short|Engineering & Machines|लिफ्ट की रस्सी टूट जाए तो क्या होगा? लिफ्ट गिरती क्यों नहीं?
 long|Aviation & Aeroplanes|हवाई जहाज का जेट इंजन इतने भारी प्लेन को हवा में कैसे उड़ाता है?
 short|Inventions & History|लाइटर का आविष्कार माचिस से पहले क्यों हुआ?
+long|AI & Machine Learning|एआई सिर्फ आपके शब्दों से बिल्कुल नई फोटो कैसे बना देता है?
+short|Earth & Oceans|हमारी 50% ऑक्सीजन समुद्र से कैसे आती है?
