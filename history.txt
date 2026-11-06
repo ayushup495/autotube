@@ -30,3 +30,5 @@ long|AI & Machine Learning|एआई सिर्फ आपके शब्द�
 short|Earth & Oceans|हमारी 50% ऑक्सीजन समुद्र से कैसे आती है?
 long|Science Explained|एलिवेटर की केबल टूटने पर भी लिफ्ट नीचे क्यों नहीं गिरती?
 short|Animals & Nature|क्या गिरगिट रंग बदलने के लिए बैकग्राउंड का इस्तेमाल करते हैं?
+long|Technology & Gadgets|एलईडी बल्ब के अंदर क्या होता है और ये इतनी रोशनी कैसे देता है?
+short|Cars & Automobiles|कार के टायर हमेशा काले ही क्यों होते हैं?
