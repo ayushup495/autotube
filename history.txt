@@ -34,3 +34,5 @@ long|Technology & Gadgets|एलईडी बल्ब के अंदर क�
 short|Cars & Automobiles|कार के टायर हमेशा काले ही क्यों होते हैं?
 long|Engineering & Machines|क्या आप जानते हैं कि एक छोटा सा पत्थर घड़ी को सही समय बताता है?
 short|Space & Rockets|अंतरिक्ष से लौटते समय स्पेसक्राफ्ट आग में क्यों नहीं जलता?
+long|Inventions & History|एक छोटे से स्टील बॉल ने लिखने का तरीका कैसे बदल दिया?
+short|Aviation & Aeroplanes|प्लेन के पंख किनारे से मुड़े क्यों होते हैं?
