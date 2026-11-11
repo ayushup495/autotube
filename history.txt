@@ -40,3 +40,5 @@ long|Earth & Oceans|समुद्र की गुप्त नदियां
 short|AI & Machine Learning|एआई फोटो में आपका चेहरा कैसे पहचानता है?
 long|Animals & Nature|इलेक्ट्रिक ईल अपने शरीर में इतनी तेज़ बिजली कैसे बनाती है?
 short|Science Explained|क्या आपने सोचा है कि कांच पारदर्शी क्यों होता है?
+long|Cars & Automobiles|कार के इंजन में पिस्टन ऊपर-नीचे कैसे होते हैं? जानिए पूरी सच्चाई
+short|Technology & Gadgets|बिना तार के फोन चार्ज कैसे होता है? जानिए सच
