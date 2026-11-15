@@ -48,3 +48,5 @@ long|Aviation & Aeroplanes|हवाई जहाज का ब्लैक ब�
 short|Inventions & History|क्या आपने कभी सोचा है कि पेंसिल के अंदर की लेड कैसे बनती है?
 long|AI & Machine Learning|चैटजीपीटी इंसानों की तरह जवाब कैसे लिख लेता है? जानिए सच
 short|Earth & Oceans|सुनामी समुद्र के बीच में गायब क्यों रहती है?
+long|Science Explained|धूप से बिजली कैसे बनती है? जानिए सोलर पैनल के पीछे का विज्ञान
+short|Animals & Nature|उल्लू बिना आवाज़ किए कैसे उड़ते हैं? जानिए सच
