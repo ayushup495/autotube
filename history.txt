@@ -54,3 +54,5 @@ long|Technology & Gadgets|रेत से कंप्यूटर चिप �
 short|Cars & Automobiles|कार का टर्बोचार्जर धुएं से गाड़ी को इतनी ताकत कैसे देता है?
 long|Engineering & Machines|क्या आपने कभी सोचा है कि पुल के नीचे गोल पिलर क्यों होते हैं?
 short|Space & Rockets|क्या रॉकेट का ईंधन खत्म होने पर भी वे अंतरिक्ष में चलते रहते हैं?
+long|Inventions & History|क्या आपने कभी सोचा है कि कैंची दो अलग-अलग हिस्सों से कैसे कटती है?
+short|Aviation & Aeroplanes|हवाई जहाज का इंजन इतनी तेज़ी से कैसे घूमता है?
