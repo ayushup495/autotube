@@ -58,3 +58,5 @@ long|Inventions & History|क्या आपने कभी सोचा ह�
 short|Aviation & Aeroplanes|हवाई जहाज का इंजन इतनी तेज़ी से कैसे घूमता है?
 long|Earth & Oceans|समुद्र के नीचे ज्वालामुखी फटने पर पानी उबलता क्यों नहीं है?
 short|AI & Machine Learning|बिना ड्राइवर के कार सड़क पर लाल लाइट कैसे पहचानती है?
+long|Animals & Nature|क्या पेड़ ज़मीन के नीचे आपस में बात करते हैं? जानिए सच
+short|Science Explained|क्या आपने कभी सोचा है कि टूथपेस्ट में अलग-अलग रंग क्यों होते हैं?
