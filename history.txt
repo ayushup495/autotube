@@ -64,3 +64,5 @@ long|Cars & Automobiles|बिना क्लच के गाड़ी अप�
 short|Technology & Gadgets|स्मार्टफोन की टचस्क्रीन उंगली को कैसे पहचानती है?
 long|Space & Rockets|रॉकेट लॉन्च के समय लाखों लीटर पानी क्यों बहाया जाता है? जानिए सच
 short|Engineering & Machines|कार दुर्घटना में एयरबैग सिर्फ 30 मिलीसेकंड में कैसे खुलता है?
+long|Aviation & Aeroplanes|हवाई जहाज 35,000 फीट की ऊंचाई पर ही क्यों उड़ते हैं? जानिए सच
+short|Inventions & History|बारकोड का आविष्कार समुद्र के किनारे रेत पर कैसे हुआ?
