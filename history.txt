@@ -68,3 +68,5 @@ long|Aviation & Aeroplanes|हवाई जहाज 35,000 फीट की ऊ
 short|Inventions & History|बारकोड का आविष्कार समुद्र के किनारे रेत पर कैसे हुआ?
 long|AI & Machine Learning|एआई अलग-अलग भाषाओं का तुरंत अनुवाद कैसे कर लेता है?
 short|Earth & Oceans|समुद्र के नीचे का रहस्य: क्या पानी के अंदर भी नदियां बहती हैं?
+long|Science Explained|माइक्रोवेव बिना आग के खाना तुरंत गर्म कैसे कर देता है?
+short|Animals & Nature|पेंगुइन के पैर बर्फ में जमते क्यों नहीं हैं? जानिए सच
