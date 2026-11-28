@@ -74,3 +74,5 @@ short|Cars & Automobiles|क्या आपने सोचा है कि �
 long|Technology & Gadgets|स्मार्टफोन की बैटरी समय के साथ खराब क्यों हो जाती है?
 long|Engineering & Machines|टावर क्रेन इतनी ऊंचाई पर खुद को कैसे खड़ा करती है?
 short|Space & Rockets|रॉकेट लॉन्च के बाद सीधे जाने के बजाय मुड़ क्यों जाते हैं?
+long|Inventions & History|क्या आपने सोचा है थर्मस चाय को घंटों गर्म कैसे रखता है?
+short|Aviation & Aeroplanes|हवाई जहाज की खिड़कियां हमेशा गोल क्यों होती हैं? जानिए सच
